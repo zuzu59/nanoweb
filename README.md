@@ -15,9 +15,9 @@ git clone https://github.com/zuzu59/nanoweb.git
 ./start.sh
 ```
 
-
-
+## Test du serveur
 ```
+http://localhost:18080
 ```
 
 
